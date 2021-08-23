@@ -1,3 +1,3 @@
-# For Flying Blog
+# <p align="center">For Flying Blog</p>
 
-**人生无非一场虚空大梦 韶华白首 不过转瞬**
+**<p align="center">人生无非一场虚空大梦 韶华白首 不过转瞬</p>**
