@@ -3,7 +3,4 @@
 ## 联系方式
 - Email：[qingkunpeng@qq.com](mailto:qingkunpeng@qq.com)
 - Blog：[https://github.com/mylydg/gitblog](https://github.com/mylydg/gitblog)
-## 友情链接
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
 ## 最近更新
